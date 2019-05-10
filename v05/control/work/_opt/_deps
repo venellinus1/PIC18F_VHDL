@@ -1,0 +1,16 @@
+H 2141964 10 3 0 6 6 0 0 0 0
+L 4 ieee 19 $MODEL_TECH/../ieee
+L 3 std 18 $MODEL_TECH/../std
+L 4 work 4 work
+D 23 work.alu(test_alu_arch) 0hOO1Zf;I1EHiz@PM18HW1 3 1
+D 31 work.control(test_control_arch) aYR4@Wm;g<L>=Tlz3FBlj3 4 1
+D 12 work.cpu_lib 7bj0IZNboK7ST>gFg3m@G0 0 1
+D 23 work.ram(test_ram_arch) VCGCgB_I3<XG2hkW2oNJP1 1 1
+D 23 work.rom(test_rom_arch) 7S:Tdc:LB=Rcme^=<09Qc0 2 1
+D 36 work.test_control(test_control_arch) CMjSO4N8m[dVz;YZNzJQk1 5 1
+2 0  0 [N4=Z0RG9YjCCJ0c<dWYM0 3 3 1
+2 0  0 K32f_c=3mVEW;KhFaoWEg3 4 4 1
+2 0  0 ^O0alhQ7VUc>UDFIIA1MO2 1 1 1
+2 0  0 A>Qg7?[9M@RmiI0Ag<XiK2 0 0 1
+2 0  0 kCM?T[@>k3l;>T1lI3N=12 2 2 1
+2 0  0 ac8]o@TKYh6_9gD?@h2eA0 5 5 1

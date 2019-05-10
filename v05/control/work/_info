@@ -1,0 +1,176 @@
+m255
+13
+cModel Technology
+dC:\PROJECTS\RPU\SRC\HDL_Designer\RPU_1MC_lib\WORK_TEST
+T_opt
+VV?KS=f?51d?dc90bgf0=P1
+04 12 17 work test_control test_control_arch 0
+o-quiet -auto_acc_if_foreign -work work
+tExplicit 1
+OE;O;6.2e;35
+Ealu
+w1166369059
+DP work cpu_lib 7bj0IZNboK7ST>gFg3m@G0
+DP ieee std_logic_unsigned hEMVMlaNCR^<OOoVNV;m90
+DP ieee std_logic_arith GJbAT?7@hRQU9IQ702DT]2
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+dH:\control
+8H:/control/alu.vhd
+FH:/control/alu.vhd
+l0
+L21
+V6G>9C@Rb5G_iYa^2j9i?21
+OE;C;6.2e;35
+32
+o-work work -2002 -explicit -check_synthesis
+tExplicit 1
+Atest_alu_arch
+DP work cpu_lib 7bj0IZNboK7ST>gFg3m@G0
+DP ieee std_logic_unsigned hEMVMlaNCR^<OOoVNV;m90
+DP ieee std_logic_arith GJbAT?7@hRQU9IQ702DT]2
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+DE work alu 6G>9C@Rb5G_iYa^2j9i?21
+l53
+L38
+V0hOO1Zf;I1EHiz@PM18HW1
+OE;C;6.2e;35
+32
+M4 ieee std_logic_1164
+M3 ieee std_logic_arith
+M2 ieee std_logic_unsigned
+M1 work cpu_lib
+o-work work -2002 -explicit -check_synthesis
+tExplicit 1
+Econtrol
+w1166369188
+DP work cpu_lib 7bj0IZNboK7ST>gFg3m@G0
+DP ieee std_logic_unsigned hEMVMlaNCR^<OOoVNV;m90
+DP ieee std_logic_arith GJbAT?7@hRQU9IQ702DT]2
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+dH:\control
+8H:/control/control_v02.vhd
+FH:/control/control_v02.vhd
+l0
+L10
+V559FfzoOJ:;P7XOCm7Jkc0
+OE;C;6.2e;35
+32
+o-work work -2002 -explicit -check_synthesis
+tExplicit 1
+Atest_control_arch
+DP work cpu_lib 7bj0IZNboK7ST>gFg3m@G0
+DP ieee std_logic_unsigned hEMVMlaNCR^<OOoVNV;m90
+DP ieee std_logic_arith GJbAT?7@hRQU9IQ702DT]2
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+DE work control 559FfzoOJ:;P7XOCm7Jkc0
+l113
+L22
+VaYR4@Wm;g<L>=Tlz3FBlj3
+OE;C;6.2e;35
+32
+M4 ieee std_logic_1164
+M3 ieee std_logic_arith
+M2 ieee std_logic_unsigned
+M1 work cpu_lib
+o-work work -2002 -explicit -check_synthesis
+tExplicit 1
+Pcpu_lib
+w1166369059
+dH:\control
+8H:/control/alu.vhd
+FH:/control/alu.vhd
+l0
+L1
+V7bj0IZNboK7ST>gFg3m@G0
+OE;C;6.2e;35
+32
+o-work work -2002 -explicit -check_synthesis
+tExplicit 1
+Eram
+w1166350648
+DP ieee std_logic_unsigned hEMVMlaNCR^<OOoVNV;m90
+DP ieee std_logic_arith GJbAT?7@hRQU9IQ702DT]2
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+dH:\control
+8H:/control/ram.vhd
+FH:/control/ram.vhd
+l0
+L6
+V8W]gAUJOE>l>gM8PlzWEb0
+OE;C;6.2e;35
+32
+o-work work -2002 -explicit -check_synthesis
+tExplicit 1
+Atest_ram_arch
+DP ieee std_logic_unsigned hEMVMlaNCR^<OOoVNV;m90
+DP ieee std_logic_arith GJbAT?7@hRQU9IQ702DT]2
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+DE work ram 8W]gAUJOE>l>gM8PlzWEb0
+l33
+L19
+VVCGCgB_I3<XG2hkW2oNJP1
+OE;C;6.2e;35
+32
+M3 ieee std_logic_1164
+M2 ieee std_logic_arith
+M1 ieee std_logic_unsigned
+o-work work -2002 -explicit -check_synthesis
+tExplicit 1
+Erom
+w1166267482
+DP std textio K]Z^fghZ6B=BjnK5NomDT3
+DP ieee std_logic_unsigned hEMVMlaNCR^<OOoVNV;m90
+DP ieee std_logic_arith GJbAT?7@hRQU9IQ702DT]2
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+dH:\control
+8H:/control/rom.vhd
+FH:/control/rom.vhd
+l0
+L7
+V2KibBhgb5c84eA@2WZLlW3
+OE;C;6.2e;35
+32
+o-work work -2002 -explicit -check_synthesis
+tExplicit 1
+Atest_rom_arch
+DP std textio K]Z^fghZ6B=BjnK5NomDT3
+DP ieee std_logic_unsigned hEMVMlaNCR^<OOoVNV;m90
+DP ieee std_logic_arith GJbAT?7@hRQU9IQ702DT]2
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+DE work rom 2KibBhgb5c84eA@2WZLlW3
+l30
+L20
+V7S:Tdc:LB=Rcme^=<09Qc0
+OE;C;6.2e;35
+32
+M4 ieee std_logic_1164
+M3 ieee std_logic_arith
+M2 ieee std_logic_unsigned
+M1 std textio
+o-work work -2002 -explicit -check_synthesis
+tExplicit 1
+Etest_control
+w1166292546
+dH:\control
+8H:/control/tb_control_v01.vhd
+FH:/control/tb_control_v01.vhd
+l0
+L1
+VzgbKSbY^zDFmXb`e@4Aam3
+OE;C;6.2e;35
+32
+o-work work -2002 -explicit
+tExplicit 1
+Atest_control_arch
+DE work test_control zgbKSbY^zDFmXb`e@4Aam3
+DP work cpu_lib 7bj0IZNboK7ST>gFg3m@G0
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+l66
+L6
+VCMjSO4N8m[dVz;YZNzJQk1
+OE;C;6.2e;35
+32
+M2 ieee std_logic_1164
+M1 work cpu_lib
+o-work work -2002 -explicit
+tExplicit 1

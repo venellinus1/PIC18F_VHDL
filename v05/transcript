@@ -1,0 +1,82 @@
+# Reading D:/Modeltech_5.8e/tcl/vsim/pref.tcl 
+# //  ModelSim SE 5.8e Aug 28 2004 
+# //
+# //  Copyright Model Technology, a Mentor Graphics Corporation company, 2004
+# //                         All Rights Reserved.
+# //                   UNPUBLISHED, LICENSED SOFTWARE.
+# //         CONFIDENTIAL AND PROPRIETARY INFORMATION WHICH IS THE
+# //        PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS LICENSORS.
+# //
+#  OpenFile "D:/Modeltech_5.8e/work/PIC1220/v04s/tb.vhd" 
+vcom -reportprogress 300 -work work D:/Modeltech_5.8e/work/PIC1220/v04s/tb.vhd
+# Model Technology ModelSim SE vcom 5.8e Compiler 2004.08 Aug 28 2004
+# ** Error: (vcom-19) Failed to access library 'work' at "work".
+# No such file or directory. (errno = ENOENT)
+vcom -reportprogress 300 -work work D:/Modeltech_5.8e/work/PIC1220/v04s/timer0.vhd
+# Model Technology ModelSim SE vcom 5.8e Compiler 2004.08 Aug 28 2004
+# ** Error: (vcom-19) Failed to access library 'work' at "work".
+# No such file or directory. (errno = ENOENT)
+# Modified modelsim.ini
+# Modified modelsim.ini
+vcom -reportprogress 300 -work work D:/Modeltech_5.8e/work/PIC1220/v04s/timer0.vhd
+# Model Technology ModelSim SE vcom 5.8e Compiler 2004.08 Aug 28 2004
+# ** Error: (vcom-19) Failed to access library 'work' at "work".
+# No such file or directory. (errno = ENOENT)
+vcom -reportprogress 300 -work work D:/Modeltech_5.8e/work/PIC1220/v04s/tb.vhd
+# Model Technology ModelSim SE vcom 5.8e Compiler 2004.08 Aug 28 2004
+# ** Error: (vcom-19) Failed to access library 'work' at "work".
+# No such file or directory. (errno = ENOENT)
+vcom -reportprogress 300 -work work D:/Modeltech_5.8e/work/PIC1220/v04s/tb.vhd
+# Model Technology ModelSim SE vcom 5.8e Compiler 2004.08 Aug 28 2004
+# ** Error: (vcom-19) Failed to access library 'work' at "work".
+# No such file or directory. (errno = ENOENT)
+vcom -reportprogress 300 -work work D:/Modeltech_5.8e/work/PIC1220/v04s/timer0.vhd
+# Model Technology ModelSim SE vcom 5.8e Compiler 2004.08 Aug 28 2004
+# ** Error: (vcom-19) Failed to access library 'work' at "work".
+# No such file or directory. (errno = ENOENT)
+vcom -reportprogress 300 -work work D:/Modeltech_5.8e/work/PIC1220/v04s/timer0.vhd
+# Model Technology ModelSim SE vcom 5.8e Compiler 2004.08 Aug 28 2004
+# ** Error: (vcom-19) Failed to access library 'work' at "work".
+# No such file or directory. (errno = ENOENT)
+# Modified modelsim.ini
+vcom -reportprogress 300 -work work D:/Modeltech_5.8e/work/PIC1220/v04s/timer0.vhd
+# Model Technology ModelSim SE vcom 5.8e Compiler 2004.08 Aug 28 2004
+# ** Error: (vcom-19) Failed to access library 'work' at "work".
+# No such file or directory. (errno = ENOENT)
+vcom -reportprogress 300 -work work D:/Modeltech_5.8e/work/PIC1220/v04s/tb.vhd
+# Model Technology ModelSim SE vcom 5.8e Compiler 2004.08 Aug 28 2004
+# ** Error: (vcom-19) Failed to access library 'work' at "work".
+# No such file or directory. (errno = ENOENT)
+vcom -reportprogress 300 -work work D:/Modeltech_5.8e/work/PIC1220/v04s/tb.vhd
+# Model Technology ModelSim SE vcom 5.8e Compiler 2004.08 Aug 28 2004
+# ** Error: (vcom-19) Failed to access library 'work' at "work".
+# No such file or directory. (errno = ENOENT)
+vcom -reportprogress 300 -work work D:/Modeltech_5.8e/work/PIC1220/v04s/timer0.vhd
+# Model Technology ModelSim SE vcom 5.8e Compiler 2004.08 Aug 28 2004
+# ** Error: (vcom-19) Failed to access library 'work' at "work".
+# No such file or directory. (errno = ENOENT)
+vcom -reportprogress 300 -work work D:/Modeltech_5.8e/work/PIC1220/v04s/tb.vhd
+# Model Technology ModelSim SE vcom 5.8e Compiler 2004.08 Aug 28 2004
+# ** Error: (vcom-19) Failed to access library 'work' at "work".
+# No such file or directory. (errno = ENOENT)
+vcom -reportprogress 300 -work work D:/Modeltech_5.8e/work/PIC1220/v04s/timer0.vhd
+# Model Technology ModelSim SE vcom 5.8e Compiler 2004.08 Aug 28 2004
+# ** Error: (vcom-19) Failed to access library 'work' at "work".
+# No such file or directory. (errno = ENOENT)
+# Modified modelsim.ini
+vcom -reportprogress 300 -work work D:/Modeltech_5.8e/work/PIC1220/v04s/tb.vhd
+# Model Technology ModelSim SE vcom 5.8e Compiler 2004.08 Aug 28 2004
+# ** Error: (vcom-19) Failed to access library 'work' at "work".
+# No such file or directory. (errno = ENOENT)
+vcom -reportprogress 300 -work work D:/Modeltech_5.8e/work/PIC1220/v04s/timer0.vhd
+# Model Technology ModelSim SE vcom 5.8e Compiler 2004.08 Aug 28 2004
+# ** Error: (vcom-19) Failed to access library 'work' at "work".
+# No such file or directory. (errno = ENOENT)
+vcom -reportprogress 300 -work work D:/Modeltech_5.8e/work/PIC1220/v04s/timer0.vhd
+# Model Technology ModelSim SE vcom 5.8e Compiler 2004.08 Aug 28 2004
+# ** Error: (vcom-19) Failed to access library 'work' at "work".
+# No such file or directory. (errno = ENOENT)
+vcom -reportprogress 300 -work work D:/Modeltech_5.8e/work/PIC1220/v04s/tb.vhd
+# Model Technology ModelSim SE vcom 5.8e Compiler 2004.08 Aug 28 2004
+# ** Error: (vcom-19) Failed to access library 'work' at "work".
+# No such file or directory. (errno = ENOENT)

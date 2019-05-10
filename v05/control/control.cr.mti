@@ -1,0 +1,49 @@
+H:/control/tb_control_v01.vhd {1 {vcom -work work -2002 -explicit -vopt H:/control/tb_control_v01.vhd
+Model Technology ModelSim SE vcom 6.2e Compiler 2006.11 Nov 16 2006
+-- Loading package standard
+-- Compiling entity test_control
+-- Loading package std_logic_1164
+-- Loading package cpu_lib
+-- Compiling architecture test_control_arch of test_control
+
+} {} {}} H:/control/ram.vhd {1 {vcom -work work -2002 -explicit -check_synthesis -vopt H:/control/ram.vhd
+Model Technology ModelSim SE vcom 6.2e Compiler 2006.11 Nov 16 2006
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Compiling entity ram
+-- Compiling architecture test_ram_arch of ram
+
+} {} {}} H:/control/control_v02.vhd {1 {vcom -work work -2002 -explicit -check_synthesis -vopt H:/control/control_v02.vhd
+Model Technology ModelSim SE vcom 6.2e Compiler 2006.11 Nov 16 2006
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Loading package cpu_lib
+-- Compiling entity control
+-- Compiling architecture test_control_arch of control
+
+} {} {}} H:/control/rom.vhd {1 {vcom -work work -2002 -explicit -check_synthesis -vopt H:/control/rom.vhd
+Model Technology ModelSim SE vcom 6.2e Compiler 2006.11 Nov 16 2006
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Loading package textio
+-- Compiling entity rom
+-- Compiling architecture test_rom_arch of rom
+
+} {} {}} H:/control/alu.vhd {1 {vcom -work work -2002 -explicit -check_synthesis -vopt H:/control/alu.vhd
+Model Technology ModelSim SE vcom 6.2e Compiler 2006.11 Nov 16 2006
+-- Loading package standard
+-- Compiling package cpu_lib
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Loading package cpu_lib
+-- Compiling entity alu
+-- Compiling architecture test_alu_arch of alu
+
+} {} {}}
